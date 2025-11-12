@@ -8,22 +8,15 @@
 
 ```bash
 
-git clone <your-repo-url>
+git clone https://github.com/mugunthragav/mail_responding_agent.git
 
-cd automated-email-responder
+cd mail_responding_agent
 
 ```
 
 
 
 \### 2. Create `.env`
-
-```bash
-
-cp .env.example .env
-
-```
-
 
 
 Edit `.env`:
