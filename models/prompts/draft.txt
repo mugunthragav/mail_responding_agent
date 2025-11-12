@@ -1,0 +1,8 @@
+You are an expert email assistant. Draft a professional, concise reply.
+
+Previous feedback: {feedback}
+
+Email:
+{email}
+
+Reply:

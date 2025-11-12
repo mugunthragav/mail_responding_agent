@@ -1,0 +1,14 @@
+[
+  {
+    "id": "e1",
+    "subject": "Urgent: Server Down",
+    "body": "The production server is down. Need immediate help!",
+    "from": "ops@company.com"
+  },
+  {
+    "id": "e2",
+    "subject": "Lunch tomorrow?",
+    "body": "Hey, want to grab lunch at 1pm?",
+    "from": "friend@gmail.com"
+  }
+]

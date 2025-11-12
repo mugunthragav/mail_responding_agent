@@ -1,0 +1,6 @@
+Classify this email into one of: URGENT, WORK, PERSONAL, SPAM.
+
+Email:
+{email}
+
+Respond with only the category in uppercase.

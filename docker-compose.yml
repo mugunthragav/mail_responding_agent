@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  email-responder:
+    build: .
+    container_name: email-responder-agent
+    ports:
+      - "8050:8050"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - DASH_DEBUG=False
+    volumes:
+      - ./data:/app/data
+      - ./src:/app/src
+    restart: unless-stopped

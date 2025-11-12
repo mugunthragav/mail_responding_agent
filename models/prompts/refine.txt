@@ -1,0 +1,7 @@
+Improve this draft based on user feedback.
+
+Original Email: {email}
+Draft: {draft}
+User Feedback: {feedback}
+
+Improved Reply:
