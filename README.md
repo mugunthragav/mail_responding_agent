@@ -23,13 +23,13 @@ Edit `.env`:
 
 ```env
 
-OPENAI\_API\_KEY=sk-...
+OPENAI_API_KEY=sk-...
 
-GMAIL\_EMAIL=you@gmail.com
+GMAIL_EMAIL=you@gmail.com
 
-GMAIL\_APP\_PASSWORD=xxxx xxxx xxxx xxxx   # with spaces
+GMAIL_APP_PASSWORD=xxxx xxxx xxxx xxxx   # with spaces
 
-DASH\_DEBUG=False
+DASH_DEBUG=False
 
 ```
 
