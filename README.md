@@ -8,9 +8,9 @@
 
 ```bash
 
-git clone https://github.com/mugunthragav/mail_responding_agent.git
+git clone https://github.com/mugunthragav/Mail-Responding-Agent.git
 
-cd mail_responding_agent
+cd Mail-Responding-Agent
 
 ```
 
